@@ -1,0 +1,10 @@
+c:\users\user\onedrive\gambar\dokumen\visual studio 2015\Projects\P3_Percobaan2_1204044\P3_Percobaan2_1204044\bin\Debug\P3_Percobaan2_1204044.exe.config
+c:\users\user\onedrive\gambar\dokumen\visual studio 2015\Projects\P3_Percobaan2_1204044\P3_Percobaan2_1204044\obj\Debug\P3_Percobaan2_1204044.csprojResolveAssemblyReference.cache
+c:\users\user\onedrive\gambar\dokumen\visual studio 2015\Projects\P3_Percobaan2_1204044\P3_Percobaan2_1204044\obj\Debug\P3_Percobaan2_1204044.ChildForm.resources
+c:\users\user\onedrive\gambar\dokumen\visual studio 2015\Projects\P3_Percobaan2_1204044\P3_Percobaan2_1204044\obj\Debug\P3_Percobaan2_1204044.ParentForm.resources
+c:\users\user\onedrive\gambar\dokumen\visual studio 2015\Projects\P3_Percobaan2_1204044\P3_Percobaan2_1204044\obj\Debug\P3_Percobaan2_1204044.Properties.Resources.resources
+c:\users\user\onedrive\gambar\dokumen\visual studio 2015\Projects\P3_Percobaan2_1204044\P3_Percobaan2_1204044\obj\Debug\P3_Percobaan2_1204044.csproj.GenerateResource.Cache
+c:\users\user\onedrive\gambar\dokumen\visual studio 2015\Projects\P3_Percobaan2_1204044\P3_Percobaan2_1204044\bin\Debug\P3_Percobaan2_1204044.exe
+c:\users\user\onedrive\gambar\dokumen\visual studio 2015\Projects\P3_Percobaan2_1204044\P3_Percobaan2_1204044\bin\Debug\P3_Percobaan2_1204044.pdb
+c:\users\user\onedrive\gambar\dokumen\visual studio 2015\Projects\P3_Percobaan2_1204044\P3_Percobaan2_1204044\obj\Debug\P3_Percobaan2_1204044.exe
+c:\users\user\onedrive\gambar\dokumen\visual studio 2015\Projects\P3_Percobaan2_1204044\P3_Percobaan2_1204044\obj\Debug\P3_Percobaan2_1204044.pdb
